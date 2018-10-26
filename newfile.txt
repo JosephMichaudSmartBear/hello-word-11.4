@@ -1,2 +1,3 @@
 First entry on master
 First branch
+Entry in branch 3
