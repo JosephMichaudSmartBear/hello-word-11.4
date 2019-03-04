@@ -1,2 +1,4 @@
 First entry on master
 First branch
+Entry in branch 3
+after pull request/review complete but before merge
